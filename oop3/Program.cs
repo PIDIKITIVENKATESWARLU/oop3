@@ -52,6 +52,7 @@ namespace oops
             student v = new student();
             v.add();
             v.venky();
+            Console.WriteLine("venkey");
 
             Console.ReadLine();
         }
